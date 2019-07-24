@@ -1,5 +1,6 @@
 {
   "name": "polymer-sortablejs",
+	"version": "0.1.4",
   "homepage": "https://github.com/SortableJS/polymer-sortablejs",
   "main": "sortablejs.html",
   "authors": [
