@@ -1,9 +1,9 @@
 {
 	"name": "polymer-sortablejs",
-	"version": "0.1.4",
-  "dependencies": {
+	"version": "0.1.5",
+	"dependencies": {
 		"polymer": "github:CENTURY-Tech/polymer#v1.12.1",
-    "Sortable": "github:SortableJS/Sortable#1.4.2"
+		"Sortable": "github:SortableJS/Sortable#1.4.2"
 	},
 	"private": true
 }
